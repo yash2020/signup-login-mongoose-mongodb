@@ -9,4 +9,5 @@ You'll need node.js and npm installed first.
 Fisrt go to dir where you downloaded...
 
 npm install             // only need this once, the first time
+
 nodemon			// To run Server at port 9090     
